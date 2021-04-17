@@ -4,8 +4,8 @@
 img {
 margin-right: 15px;
 margin-left: 10px;
-width: 40%;
-height: 60%;
+width: 50%;
+height: 70%;
 }
 body {
 font-family: Times New Roman;
@@ -26,6 +26,6 @@ font-size: 12px;
  background-color: rgba(200, 150, 200, 0.8);
  border: 1px solid rgba(0, 0, 0, 0.8);
  padding: 20px;
- font-size: 30%;
+ font-size: 70%;
  text-align: center;
 }
