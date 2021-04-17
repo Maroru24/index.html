@@ -1,30 +1,31 @@
 ﻿h1 {
-  text-align: center;
+ text-align: center;
 }
-
 img {
- margin-right: 15%;
- margin-left: 15%;
+margin-right: 15px;
+margin-left: 10px;
+width: 15%;
+height: 15%;
 }
 body {
- font-family: Times New Roman;
- font-size: 25px;
+font-family: Times New Roman;
+font-size: 15px;
 }
 
 footer{
- font-family: aria;
- font-size: 22px;
+font-family: aria;
+font-size: 12px;
 }
-grid-container {
-  display: grid;
-  grid-template-columns: 30% 30% 30%;
-  background-color: #ffffff;
-  padding: 10%;
+.grid-container {
+ display: grid;
+ grid-template-columns: 33% 33% 33%;
+ background-color: #ffffff;
+ padding: 20px;
 }
-grid-item {
-  background-color: rgba(200, 150, 200, 0.8);
-  border: 5% solid rgba(0, 0, 0, 0.8);
-  padding: 10%;
-  font-size: 30%;
-  text-align: center;
+.grid-item {
+ background-color: rgba(200, 150, 200, 0.8);
+ border: 1px solid rgba(0, 0, 0, 0.8);
+ padding: 20px;
+ font-size: 30px;
+ text-align: center;
 }
