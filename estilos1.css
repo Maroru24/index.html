@@ -16,13 +16,13 @@ footer{
  font-family: aria;
  font-size: 22px;
 }
-.grid-container {
+grid-container {
   display: grid;
-  grid-template-columns: 33% 33% 33%;
+  grid-template-columns: 30% 30% 30%;
   background-color: #ffffff;
   padding: 10%;
 }
-.grid-item {
+grid-item {
   background-color: rgba(200, 150, 200, 0.8);
   border: 5% solid rgba(0, 0, 0, 0.8);
   padding: 10%;
