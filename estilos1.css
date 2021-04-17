@@ -1,6 +1,8 @@
 ﻿h1 {
   text-align: center;
 }
+h2 {
+  text-align: center;
 img {
  margin-right: 5%;
  margin-left: 5%;
@@ -24,6 +26,6 @@ footer{
   background-color: rgba(200, 150, 200, 0.8);
   border: 5% solid rgba(0, 0, 0, 0.8);
   padding: 10%;
-  font-size: 25%;
+  font-size: 50%;
   text-align: center;
 }
