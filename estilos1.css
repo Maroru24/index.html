@@ -3,16 +3,16 @@
 }
 img {
  margin-right: 15%;
- margin-left: 10p%;
+ margin-left: 5%;
 }
 body {
  font-family: Times New Roman;
- font-size: 15%;
+ font-size: 15px;
 }
 
 footer{
  font-family: aria;
- font-size: 12%;
+ font-size: 12px;
 }
 .grid-container {
   display: grid;
