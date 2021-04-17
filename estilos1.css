@@ -2,7 +2,7 @@
   text-align: center;
 }
 img {
- margin-right: 15%;
+ margin-right: 5%;
  margin-left: 5%;
 }
 body {
@@ -24,6 +24,6 @@ footer{
   background-color: rgba(200, 150, 200, 0.8);
   border: 5% solid rgba(0, 0, 0, 0.8);
   padding: 10%;
-  font-size: 100%;
+  font-size: 25%;
   text-align: center;
 }
