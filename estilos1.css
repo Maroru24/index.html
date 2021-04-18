@@ -5,7 +5,7 @@ img {
 margin-right: 15px;
 margin-left: 10px;
 width: 50%;
-height: 70%;
+height: 60%;
 }
 body {
 font-family: Times New Roman;
@@ -19,6 +19,7 @@ font-size: 12px;
 .grid-container {
  display: grid;
  grid-template-columns: 33% 33% 33%;
+ grid-template-row: 33% 33% 33%;
  background-color: #ffffff;
  padding: 20px;
 }
@@ -26,6 +27,6 @@ font-size: 12px;
  background-color: rgba(200, 150, 200, 0.8);
  border: 1px solid rgba(0, 0, 0, 0.8);
  padding: 20px;
- font-size: 120%;
+ font-size: 80%;
  text-align: center;
 }
