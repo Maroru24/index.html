@@ -30,3 +30,6 @@ font-size: 12px;
  font-size: 80%;
  text-align: center;
 }
+tr td:hover {
+ background:#F7F6A2
+  }
